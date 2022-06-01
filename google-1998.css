@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+a {
+  color: blue;
+}
+
+.container {
+  width: 1000px;
+  height: 600px;
+  margin: 0 auto;
+}
+.header {
+  width: 1000px;
+  height: 120px;
+}
+.searcher {
+  background-color: lightgray;
+  width: 1000px;
+  height: 70px;
+  float: left;
+  margin: auto;
+}
+.leftcard {
+  background-color: rgba(3, 215, 205, 0.462);
+  width: 332px;
+  height: 70px;
+  float: left;
+  margin-right: 3px;
+  padding-top: 10px;
+}
+.middlecard {
+  font-size: smaller;
+  background-color: rgba(3, 215, 205, 0.462);
+  width: 238px;
+  height: 73px;
+  float: left;
+  margin-right: 3px;
+  padding-top: 7px;
+}
+.rightcard {
+  font-size: smaller;
+  background-color: rgb(66, 184, 178);
+  width: 400px;
+  height: 80px;
+  float: left;
+  margin: auto;
+}
+.footer {
+  font-size: smaller;
+  width: 1000px;
+  height: 50px;
+  float: left;
+}
